@@ -1,0 +1,13 @@
+modelo,caso_falha,grupo_real,previsto_nominal_0,previsto_falha_1
+Random Forest,Sutil,Nominal,115,5
+Random Forest,Sutil,Sutil,38,2
+Random Forest,Media,Nominal,115,5
+Random Forest,Media,Media,1,39
+Random Forest,Severa,Nominal,115,5
+Random Forest,Severa,Severa,0,40
+LDA,Sutil,Nominal,113,7
+LDA,Sutil,Sutil,29,11
+LDA,Media,Nominal,113,7
+LDA,Media,Media,0,40
+LDA,Severa,Nominal,113,7
+LDA,Severa,Severa,1,39

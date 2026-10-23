@@ -1,0 +1,5 @@
+modelo,classe_real,classe_real_codigo,previsto_nominal_0,previsto_falha_1
+Random Forest,Nominal,0,115,5
+Random Forest,Falha,1,39,81
+LDA,Nominal,0,113,7
+LDA,Falha,1,30,90
